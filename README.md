@@ -1,3 +1,3 @@
 Meu curso de git
 
-alterando
+alterando alterando o readme com o git master
