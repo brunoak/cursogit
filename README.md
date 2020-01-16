@@ -1,3 +1,3 @@
 Meu curso de git
 
-alterando o (README)
+Aprendendo a usar essa incrivel ferramenta
